@@ -394,5 +394,12 @@ If you encounter any issues or have questions:
 
 ---
 
-Made with ❤️ for better healthcare through technology
+## 🌐 Live Demo
 
+**Try the application online:** [https://heart-disease-prediction-app-123.streamlit.app/](https://heart-disease-prediction-app-123.streamlit.app/)
+
+The live demo allows you to test the heart disease prediction model directly in your browser without any installation required. Simply input the patient's medical parameters and get instant predictions.
+
+---
+
+Made with ❤️ for better healthcare through technology
